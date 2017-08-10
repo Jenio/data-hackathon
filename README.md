@@ -1,11 +1,13 @@
 # data-hackathon
 A.I. Open Innovation Movement
 
+
 Team AI
 A.I. Open Innovation Movement
 From Tokyo to The World
 Team AIはオープンイノベーションコミュニティに進化しました
- 
+
+
 好評のKaggleデータハッカソンイベントを発展させる形で、
 金融・医療業界などの実データを使ったハンズオン形式でのハッカソンを開催します。
 金融であれば、株・FX・BitCoinの時系列データ。
